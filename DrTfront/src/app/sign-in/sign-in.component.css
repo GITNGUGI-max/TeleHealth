@@ -1,0 +1,16 @@
+.card{
+    margin: 70px 200px;
+    
+}
+
+.form-control{
+    width: 50%;
+    margin: 10px 200px;
+}
+label, small{
+    margin: 10px 200px;
+}
+button{
+    margin-left: 40%;
+    margin-top: 1em;
+}
